@@ -1,5 +1,5 @@
 <template>
-  <h1> Ciao questa è la mia prima app wow incredibile!</h1>
+  <h1> Ciao questa è la mia prima app wow incredibile!!!</h1>
   
 </template>
 
