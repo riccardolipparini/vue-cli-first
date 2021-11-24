@@ -1,21 +1,14 @@
 <template>
-  <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    
-    <Miocomponent/>
-  </div>
+  <h1> Ciao questa è la mia prima app wow incredibile!</h1>
   
 </template>
 
 <script>
 
-import Miocomponent from './components/miocomponente.vue'
 
 export default {
-  name: 'App',
-  components: {
-    Miocomponent
-  }
+  name: 'Miocomponent',
+  
 }
 </script>
 
